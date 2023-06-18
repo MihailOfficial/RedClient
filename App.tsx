@@ -250,7 +250,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   voteButton: {
-
     minWidth: 20,
     height: 20,
     borderWidth: 1,
